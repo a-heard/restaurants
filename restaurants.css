@@ -1,0 +1,65 @@
+nav li {
+	display: inline;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	margin-right: 15px;
+}
+
+nav a:hover {
+	text-decoration: underline;
+	color: red;
+
+
+
+
+h1 {
+	color: blue;
+	text-decoration: underline;
+	font-style: sans-serif;
+
+}
+
+
+/* ------footer-------*/
+
+footer {
+	width: 100px;
+	background-color: darkgrey;
+	padding: 60px 0px;
+
+}
+
+
+
+footer nav li {
+	display: inline;
+	font-size: 15px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	margin-right: 15px;
+}
+
+footer nav a:hover {
+	text-decoration: underline;
+	color: red;
+}
+
+footer nav {
+	float: left;
+}
+
+
+
+/*----.footer {
+ position:fixed;
+ bottom:0;
+ left:0;
+}---*/
+
+#footer {
+   position: absolute;
+  bottom: 0;
+  width: 100%;
+            
+}
